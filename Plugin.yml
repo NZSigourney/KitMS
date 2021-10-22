@@ -1,0 +1,9 @@
+name: KitMS
+main: NZS\MS\Main
+version: BETA-1
+api: 3.2.0
+author: NZS
+load: POSTWORLD
+depend:
+  - FormAPI
+  - EconomyAPI
